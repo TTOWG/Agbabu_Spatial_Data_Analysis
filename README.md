@@ -1,5 +1,8 @@
 # Agbabu_Spatial_Data_Analysis
  Agbabu Spatial Variability Modeling
+     
+https://doi.org/10.2118/198859-MS
+
 This work is motivated by the need for spatially-coherent geomodels leading to reliable 
 volumetric estimates of heavy oil and bitumen resources in the Agbabu deposits. 
 An existing database of porosity, depth-to-top and thickness attributes of a section of the 
